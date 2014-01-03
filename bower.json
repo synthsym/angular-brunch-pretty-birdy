@@ -1,7 +1,7 @@
 {
   "name": "angular-brunch-pretty-birdy",
   "repo": "synthsym/angular-brunch-pretty-birdy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "_public/js/app.js",
   "ignore": [
     "**/.*",
