@@ -1,0 +1,30 @@
+{
+  "name": "angular-brunch-pretty-birdy",
+  "repo": "synthsym/angular-brunch-pretty-birdy",
+  "version": "1.0.0",
+  "main": "_public/js/app.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "sass-bootstrap": "~3.0",
+    "bootswatch-scss": "~3.0",
+    "angular": "~1.0",
+    "angular-route": "~1.2",
+    "angular-bootstrap": "~0.5",
+    "angular-sanitize": "~1.2",
+    "angular-resource": "~1.2",
+    "angular-cookies": "~1.2",
+    "angular-mocks": "~1.2"
+  },
+  "overrides": {
+    "angular-mocks": {
+      "main": "README.md"
+    }
+  },
+  "resolutions": {
+    "angular": "~1.0"
+  }
+}
