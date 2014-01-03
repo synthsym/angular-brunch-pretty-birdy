@@ -22,7 +22,7 @@ Features:
 
 Or if you have **Brunch** installed run:
 
-`brunch new https://github.com/synthsym/angular-brunch-pretty-birdy myapp`
+`brunch new gh:synthsym/angular-brunch-pretty-birdy`
 
 You must also install packages using bower. Either
 
