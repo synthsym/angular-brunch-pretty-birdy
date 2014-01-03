@@ -1,7 +1,7 @@
 # angular-brunch-pretty-birdy
 ### angular-brunch-seed with sassy lorikeets and jaded boots
 
-[AngularJS](http://angularjs.org) + [Brunch](http://brunch.io) + [Sass]() + [Jade]() + [Bootstrap]() + [Bootswatch]()
+[AngularJS](http://angularjs.org) + [Brunch](http://brunch.io) + [Sass](http://sass-lang.com) + [Jade](http://jade-lang.com) + [Bootstrap](http://getbootstrap.com) + [Bootswatch](http://bootswatch.com)
 
 Features:
 * Coffeescript / Jade / Sass automatically compiled on save
