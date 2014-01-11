@@ -9,11 +9,10 @@
     "components"
   ],
   "dependencies": {
-    "sass-bootstrap": "~3.0",
-    "bootswatch-scss": "~3.0",
-    "angular": "~1.0",
+    "bootswatch": "~3.0",
+    "angular": "~1.2",
     "angular-route": "~1.2",
-    "angular-bootstrap": "~0.5",
+    "angular-bootstrap": "~0.9",
     "angular-sanitize": "~1.2",
     "angular-resource": "~1.2",
     "angular-cookies": "~1.2",
